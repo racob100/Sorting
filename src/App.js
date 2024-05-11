@@ -5,7 +5,7 @@ import Card from './components/card';
 function App() {
   return (
     <>
-      <Card />
+      <Card name={"Mrityunjoy"} department={"IT"} college={"GU"}/>
     </>
   );
 }
